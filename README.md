@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/gerardormz98/gerardormz98/blob/master/github-profile-banner.png?raw=true)
 
-### Hi there 👋 My name is Gerardo Ramírez
+## Hi there 👋 My name is Gerardo Ramírez
 
 I'm a .NET/React software developer with +4 years of experience.
 
