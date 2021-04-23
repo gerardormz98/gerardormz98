@@ -15,7 +15,7 @@ _More coming soon..._
 
 ## What I'm currently working on... 💻
 
-- 🎹 **Virtual Piano**: Web piano, made in React, p5.js and Tone.js. Just for fun.!
+- 🎹 **Virtual Piano**: Web piano, made in React, p5.js and Tone.js. Just for fun!
 - 📘 **Personal Portfolio**: I'm designing and building from zero my own web professional portfolio.
 
 ## What I would like to learn... ✏️
