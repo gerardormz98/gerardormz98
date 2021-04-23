@@ -2,7 +2,7 @@
 
 ## Hi there 👋 My name is Gerardo Ramírez
 
-I'm a .NET/React software developer with +4 years of experience.
+I'm a .NET/React software developer with +4 years of experience. Thanks for visiting my profile!
 
 ## Take a look at some of my projects! 📖
 
@@ -21,5 +21,3 @@ _More coming soon..._
 ## What I would like to learn... ✏️
 
 - I'm actually learning about UI design. It's a nice skill to have as a web developer.
-
-Thanks for visiting my profile!
