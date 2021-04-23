@@ -4,7 +4,7 @@
 
 I'm a .NET/React software developer with +4 years of experience.
 
-### Take a look at some of my projects! 📖
+## Take a look at some of my projects! 📖
 
 These are some personal projects I have been working in my free time:
 
@@ -13,12 +13,12 @@ These are some personal projects I have been working in my free time:
 
 _More coming soon..._
 
-### What I'm currently working on... 💻
+## What I'm currently working on... 💻
 
 - 🎹 **Virtual Piano**: Web piano, made in React, p5.js and Tone.js. Just for fun.!
 - 📘 **Personal Portfolio**: I'm designing and building from zero my own web professional portfolio.
 
-### What I would like to learn... ✏️
+## What I would like to learn... ✏️
 
 - I'm actually learning about UI design. It's a nice skill to have as a web developer.
 
