@@ -16,7 +16,7 @@ _More coming soon..._
 
 ## What I'm currently working on... 💻
 
-- 📘 **Personal Portfolio**: I'm designing and building from zero my own web professional portfolio.
+- 📘 **Personal Portfolio**: I'm designing and building from scratch my own web professional portfolio.
 
 ## What I would like to learn... ✏️
 
