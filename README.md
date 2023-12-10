@@ -8,8 +8,9 @@ I'm a .NET/Angular software developer with +6 years of experience. Thanks for vi
 
 These are some personal projects I have been working in my free time:
 
-- [**Virtual Piano**](https://react-virtual-piano.herokuapp.com/): Simple online Grand Piano. Made in React, p5.js and Tone.js. Just for fun! [📄 Source](https://github.com/gerardormz98/virtual-piano).
-- [**Postboy**](https://postboy.herokuapp.com/): Online REST API Client. Made in React. Based on the core functionality of Postman, but in the web. [📄 Source](https://github.com/gerardormz98/postboy).
+- [**InstaQueue**] (https://instaqueue.netlify.app/): Real-time waitlist manager for restaurants and businesses. Made in Angular, SignalR and .NET. [📄 Source](https://github.com/gerardormz98/insta-queue-ui)
+- [**Virtual Piano**](https://react-virtual-piano.netlify.app/): Simple online Grand Piano. Made in React, p5.js and Tone.js. Just for fun! [📄 Source](https://github.com/gerardormz98/virtual-piano).
+- [**Postboy**](https://postboy-app.netlify.app/): Online REST API Client. Made in React. Based on the core functionality of Postman, but in the web. [📄 Source](https://github.com/gerardormz98/postboy).
 - [**Receipts CRUD**](https://receipts-crud.herokuapp.com/): Simple CRUD app. Made in React in the frontend and .NET Core in the backend. It includes Firebase Authentication, user roles and permissions. [📄 Source](https://github.com/gerardormz98/receipts-crud-app).
 
 _More coming soon..._
