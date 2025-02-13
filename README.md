@@ -2,7 +2,7 @@
 
 ## Hi there 👋 My name is Gerardo Ramírez
 
-I'm a .NET/Angular software developer with +6 years of experience. Thanks for visiting my profile!
+I'm a .NET/Angular software developer with 8 years of experience. Thanks for visiting my profile!
 
 ## Take a look at some of my projects! 📖
 
