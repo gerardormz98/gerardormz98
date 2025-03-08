@@ -2,9 +2,11 @@
 
 ## Hi there 👋 My name is Gerardo Ramírez
 
-I'm a .NET/Angular software developer with 8 years of experience. Thanks for visiting my profile!
+I'm a .NET/Angular software developer with 8 years of experience in designing, maintaining and developing applications. Sometimes I build stuff just for fun. 
 
-## Languages and Tools 🧰
+Thanks for visiting my profile!
+
+### Languages and Tools 🧰
 
 <img align="left" alt="Dotnet" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="C#" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -19,6 +21,7 @@ I'm a .NET/Angular software developer with 8 years of experience. Thanks for vis
 <img align="left" alt="JavaScript" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
+<br />
 <br />
 
 ## Take a look at some of my projects! 📖
