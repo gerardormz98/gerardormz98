@@ -6,7 +6,7 @@ I'm a .NET/Angular software developer with 8 years of experience in designing, m
 
 Thanks for visiting my profile!
 
-### Languages and Tools 🧰
+## Languages and Tools 🧰
 
 <img align="left" alt="Dotnet" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="C#" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
